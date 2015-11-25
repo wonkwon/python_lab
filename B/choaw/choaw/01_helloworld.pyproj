@@ -4,13 +4,14 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>0b5775d5-abea-4fee-8b95-c5e07da58391</ProjectGuid>
-    <ProjectHome>.</ProjectHome>
-    <StartupFile>choaw.py</StartupFile>
+    <ProjectHome>
+    </ProjectHome>
+    <StartupFile>01_helloworld.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>choaw</Name>
+    <Name>01_helloworld</Name>
     <RootNamespace>choaw</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
@@ -22,7 +23,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="choaw.py" />
+    <Compile Include="01_helloworld.py" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

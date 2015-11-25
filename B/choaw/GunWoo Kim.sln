@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "choaw", "choaw\choaw.pyproj", "{0B5775D5-ABEA-4FEE-8B95-C5E07DA58391}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "01_helloworld", "choaw\01_helloworld.pyproj", "{0B5775D5-ABEA-4FEE-8B95-C5E07DA58391}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
